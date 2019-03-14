@@ -4,4 +4,11 @@
     <string name="texto_titulo">Holi :)</string>
     <string name="texto_FAVButton">Favorito James</string>
     <string name="texto_accion">Acción</string>
+    <string-array name="planetas">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+        <item>Jupiter</item>
+    </string-array>
 </resources>
