@@ -2,4 +2,6 @@
     <string name="app_name">PetJames</string>
     <string name="texto_boton_click">Click</string>
     <string name="texto_titulo">Holi :)</string>
+    <string name="texto_FAVButton">Favorito James</string>
+    <string name="texto_accion">Acción</string>
 </resources>
