@@ -11,4 +11,6 @@
         <item>Marte</item>
         <item>Jupiter</item>
     </string-array>
+    <string name="titulo_tarjeta">Del Piero</string>
+    <string name="descripcion_tarjeta">Mejor jugador de la historia e ídolo de la juve</string>
 </resources>

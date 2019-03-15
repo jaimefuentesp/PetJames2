@@ -5,4 +5,5 @@
     <color name="colorAccent">#795548</color>
     <color name="textoTitulo">#795548</color>
     <color name="colorBlanco">#FFFFFF</color>
+    <color name="colorGris">#e6e5e5</color>
 </resources>
